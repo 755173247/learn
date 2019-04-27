@@ -19,10 +19,13 @@
             <artifactId>invoice-cloud-service</artifactId>
             <version>${com.sdc.factor.thirdparty.invoice-cloud-service.version}</version>
         </dependency>
+<<<<<<< HEAD
         <dependency>
             <groupId>com.sdc.factor</groupId>
             <artifactId>common-utils</artifactId>
             <version>${com.sdc.factor.common-utils.version}</version>
         </dependency>
+=======
+>>>>>>> 5ac83152f62c67216fd56c5138b8bc41254be14c
     </dependencies>
 </project>

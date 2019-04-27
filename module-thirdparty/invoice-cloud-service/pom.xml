@@ -11,6 +11,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>invoice-cloud-service</artifactId>
+<<<<<<< HEAD
     <packaging>pom</packaging>
     <name>invoice-cloud-service</name>
 
@@ -28,4 +29,8 @@
     </dependencies>
 
 
+=======
+    <name>invoice-cloud-service</name>
+
+>>>>>>> 5ac83152f62c67216fd56c5138b8bc41254be14c
 </project>
